@@ -143,6 +143,9 @@ cython_debug/
 # VS Code
 .vscode/
 
+# Claude Code
+.claude/
+
 # Database files
 *.db
 *.sqlite
